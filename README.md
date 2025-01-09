@@ -1,2 +1,2 @@
 # E-Schl_Upd
-Preview:
+Preview: https://alaminbrbd.github.io/E-Schl_Upd/
